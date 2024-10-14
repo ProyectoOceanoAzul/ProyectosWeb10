@@ -221,6 +221,19 @@ div.card__swimming{
 
 
 
+
+/*opacity*/
+div.banner__card1 div.card__fitness:hover,
+div.banner__card1 div.card__swimming:hover,
+div.banner__card2 div.card__spa:hover,
+div.banner__card2 div.card__golf:hover
+
+{
+    opacity: 0.8;
+}
+
+
+
 /**/
 
 div.card__fitness img{
